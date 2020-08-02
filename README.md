@@ -1,0 +1,1 @@
+# flutter_jsonmodel_without_list
